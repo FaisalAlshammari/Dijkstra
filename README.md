@@ -2,6 +2,7 @@
 Finding the shortest path between two vertices using Dijkstra's algorithm
 
 Overview of the program:
+
 This program finds the shortest path between two nodes entered by the user, the information of a 
 weighted undirected graph G = (V,E) including the number of vertices and the x-y coordinates for the 
 vertices and the edges information are all given in a text file. the method I used to implement this is 
