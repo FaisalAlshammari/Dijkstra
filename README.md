@@ -32,3 +32,5 @@ Vertices are numbered from 0 to |V | − 1, where |V | is given to you in the fi
 by the user. Note that the user will enter two integers representing the vertices he/she
 is asking about and your program will highlight (with a different color) the shortest path between them.
 
+
+*exe file and a smaple run of the program is [HERE](https://github.com/FaisalAlshammari/Dijkstra/tree/main/exe)*
