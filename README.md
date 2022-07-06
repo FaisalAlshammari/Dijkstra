@@ -15,10 +15,10 @@ Weights does not need to represent distance all the time it can represent trip t
 transportation for examples. As for time complexity heappush() and heappop() have a time complexity 
 of O(logn) separately but the time complexity for Dijkstra's algorithm implementation is O(n^2logn).
 
- ////////////////////////////////////////////////////
+***
 
 ### Here are the requirements the program is following:
--  Program should read the information of a weighted undirected graph G = (V,E) using a text file in the following format:
+-  Program should read the information of a weighted undirected graph G = (V,E) using a [Text file](https://github.com/FaisalAlshammari/Dijkstra/blob/main/Vertices.txt) in the following format:
 (a) The first line has an integer specifying the number of vertices in the graph (i.e.,|V |).
 (b) Lines from line number 2 to line number |V | +1 give the x− and y− coordinates
 of all vertices starting from v0. These lines are in the format of two integers
@@ -33,4 +33,7 @@ by the user. Note that the user will enter two integers representing the vertice
 is asking about and your program will highlight (with a different color) the shortest path between them.
 
 
-*exe file and a smaple run of the program is [HERE](https://github.com/FaisalAlshammari/Dijkstra/tree/main/exe)*
+*exe file and a smaple run of the program is [HERE](https://github.com/FaisalAlshammari/Dijkstra/tree/main/exe)*  
+*source code is [HERE](https://github.com/FaisalAlshammari/Dijkstra/blob/main/DijkstraCode.py)*
+
+
